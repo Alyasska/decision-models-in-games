@@ -1,0 +1,9 @@
+.env
+.env.*
+.venv/
+__pycache__/
+runs/
+*.log
+*.pkl
+catan/claude_cwd/
+games/pokemon-showdown/

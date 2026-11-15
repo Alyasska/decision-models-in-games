@@ -1,0 +1,6 @@
+catanatron @ git+https://github.com/bcollazo/catanatron.git
+open_spiel
+eval7
+poke-env
+python-dotenv
+anthropic
